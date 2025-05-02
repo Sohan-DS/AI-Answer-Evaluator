@@ -1,6 +1,7 @@
-torch==2.7.0+cu118
+torch==2.7.0
 sentence-transformers==2.7.0
 huggingface-hub>=0.23.0
-tensorflow
-numpy
+tensorflow-cpu
 scikit-learn
+numpy
+streamlit
